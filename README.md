@@ -1,0 +1,2 @@
+# Degerler
+Pyhtona giriş yapıldı
